@@ -17,17 +17,17 @@ It is multi-paradigm: protocol-oriented, object-oriented, functional, imperative
 **4. Is it compiled or interpreted, or a combination? Does it use a virtual machines?**
 Swift is compiled.
 
-5. What types of applications is your language primarily used for?
+**5. What types of applications is your language primarily used for?**
 It is used for systems programming, mabile and desk apps, cloud services, and etc.
 
-6. Search on Github.com for your language: what are the 3 most popular projects (the ones with the most stars) involving your language?
+**6. Search on Github.com for your language: what are the 3 most popular projects (the ones with the most stars) involving your language?**
 a. Apple/Swift (https://github.com/apple/swift). It is the open-source community of Swift where documentation is posted and any developers 
 can contribute to the project.
 b.btrn/Swift (https://github.com/btrn/Swift). This project provides some examples in Swift 4.2 for iOS.
 c. openstack/swift (https://github.com/openstack/swift). Swift is part of OpenStack and follows the code contribution, 
 review, and testing processes common to all OpenStack projects.
 
-7. Where will you get information about this language when it's time to start programming in it?
+**7. Where will you get information about this language when it's time to start programming in it?**
 I can get information from the official documentations: https://docs.swift.org/swift-book/
 or from its official github account: https://github.com/apple/swift.
 I also fount tutorialpoit is helpful: https://www.tutorialspoint.com/swift/.
