@@ -1,14 +1,20 @@
-1. What is the name of your language?
+Peizhu Qian (Pam)
+CS 330 Programming Languages
+Prof. Zwolinski
+1/23/2019
+Assignment 1
+
+**1. What is the name of your language?**
 Swift
 
-2. When/where was it created and by whom? Was it developed to address a particular computing problem or need?
+**2. When/where was it created and by whom? Was it developed to address a particular computing problem or need?**
 Swift was developed by Apple Inc. and first released on June 2, 2014. Development of Swift started in July 2010 by Chris Lattner. 
 It was developed for macOS, iOS, watchOS and tvOS.
 
-3. Is it primiarily procedural, functional, scripted, object-oriented, or a combination of these? Or something else?
+**3. Is it primiarily procedural, functional, scripted, object-oriented, or a combination of these? Or something else?**
 It is multi-paradigm: protocol-oriented, object-oriented, functional, imperative, and block structured.
 
-4. Is it compiled or interpreted, or a combination? Does it use a virtual machines?
+**4. Is it compiled or interpreted, or a combination? Does it use a virtual machines?**
 Swift is compiled.
 
 5. What types of applications is your language primarily used for?
