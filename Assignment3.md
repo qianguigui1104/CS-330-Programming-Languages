@@ -1,5 +1,5 @@
 
-__Discussion questions: (Swift)__
+__Discussion questions: (Swift)__   
 __1. What are the naming requirements for variables in your language? What about naming conventions? Are they enforced by the compiler/interpreter, or are they just standards in the community?__    
 Apple gives general conventions and other style guide for Swift programming.    
 - Names of types and protocols are UpperCamelCase.    
