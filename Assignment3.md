@@ -1,5 +1,7 @@
 
 __Discussion questions: (Swift)__   
+
+
 __1. What are the naming requirements for variables in your language? What about naming conventions? Are they enforced by the compiler/interpreter, or are they just standards in the community?__    
 Apple gives general conventions and other style guide for Swift programming.    
 - Names of types and protocols are UpperCamelCase.    
@@ -71,6 +73,8 @@ var things = Any ()
 things.append(0)  // integer    
 things.append(0.0)  // float    
 things.append("hello")  // string   
+
+_Reference: https://docs.swift.org/swift-book/LanguageGuide/TypeCasting.html_
 
     
 
