@@ -6,5 +6,5 @@ by professor Bob Zwolinski at Simmons University, Boston, MA, USA.
 
 If you have any questions for me, I can be reached at qian@simmons.edu.
 
-Best,
+Best,   
 Pam Qian
