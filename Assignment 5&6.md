@@ -79,7 +79,7 @@ Yes!
 
 __6. Declare a variable (say, x) in the main body of your program. Then declare a variable of the same name inside of a loop. 
 Is there a conflict? Is the old variable overwritten or do you now have two variables of the same name?__   
-No, there is no conflict, meaning the code does not generate an error. The old variable was overwritten.
+No, there is no conflict, meaning the code does not generate an error. There are two variables of the same name
     
 	var x = 6   
 	print(x)    
@@ -87,6 +87,27 @@ No, there is no conflict, meaning the code does not generate an error. The old v
 	    var x = 9   
 	    print(x)    
 	}   
+	
+	
+	*Output:*
+	*Before the for loop:*		
+	6
+	
+	*Inside the for loop:*	
+	9	
+	9	
+	9	
+	9	
+	9	
+	9	
+	9	
+	9	
+	9	
+	9	
+	(10 times)
+	
+	*After the loop:*		
+	6	
 
 __7. What if the other x inside a function?__   
 Yes, you can declare another ‘x’ inside of a function and assign it a different value.    
